@@ -12,7 +12,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Abhay Rohilla </h1>
-<h3 align="center"> Intermediate Python Language | Basic Java Language | Basic Katlin Language| Basic Machine Learning Engineer | Basic Deep Learning | Basic NLP | Basic HTML & CSS </h3>
+<h3 align="center"> Intermediate Python Language | Basic Java Language | Basic Katlin Language | Basic Machine Learning Engineer | Basic Deep Learning | Basic NLP | Basic HTML & CSS </h3>
 <p align="center">
 <a href="" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
 <a href="https://www.kaggle.com/abhayrohilla31" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_ovindu" height="30" width="40" /></a>
