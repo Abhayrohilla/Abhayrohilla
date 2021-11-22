@@ -15,7 +15,7 @@
 <h3 align="center"> Intermediate Python Language | Basic Java Language | Basic Katlin Language| Basic Machine Learning Engineer | Basic Deep Learning | Basic NLP | Basic HTML & CSS </h3>
 <p align="center">
 <a href="" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
-<a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_ovindu" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/abhayrohilla31" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_ovindu" height="30" width="40" /></a>
 <a href="https://www.instagram.com/abhayrohilla__/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="30" width="40" /></a>
 <a href="https://m.facebook.com/home.php?ref=wizard&_rdr" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="30" width="40" /></a>
  <a href = "https://mail.google.com/mail/u/0/#inbox"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
