@@ -1,4 +1,4 @@
-<p align="center">
+p<p align="center">
   <img src="https://camo.githubusercontent.com/25f4341435db58189f8ec1d5933b531497ccbcbf4ba1ced12f677b308c7eea66/68747470733a2f2f632e74656e6f722e636f6d2f474e37334d4b4261775a5941414141692f627573792d637574652e676966" width="200" height="200" alt="giphy">
   <img align='centre' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="giphy">
   <img align='centre' src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="200" height="200"alt="Unicorn">
@@ -12,7 +12,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Abhay Rohilla </h1>
-<h3 align="center"> Intermediate Python Language | Basic Java Language | Basic Katlin Language | Basic Machine Learning Engineer | Basic Deep Learning | Basic NLP | Basic HTML & CSS </h3>
+<h3 align="center"> Intermediate Python Language | Basic Java Language | Basic Katlin Language | Basic Machine Learning Engineer | Basic Deep Learning | Basic NLP & Computer Vision | Basic HTML & CSS </h3>
 <p align="center">
 <a href="" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
 <a href="https://www.kaggle.com/abhayrohilla31" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_ovindu" height="30" width="40" /></a>
