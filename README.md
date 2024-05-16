@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Abhay Rohilla's GitHub Profile</title>
 </head>
 <body>
   <div style="max-width: 800px; margin: 0 auto; padding: 20px; font-family: Arial, sans-serif;">
@@ -20,48 +19,51 @@
     </div>
     <hr>
     <h1 style="text-align: center;">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Abhay Rohilla </h1>
-    <h3 style="text-align: center;"> Intermediate Python Language | Basic Java Language | Basic Katlin Language | Basic Machine Learning | Basic Deep Learning | Basic NLP & Computer Vision | C and C++ languages | Basic HTML, CSS & Bootstrap </h3>
+    <h3 style="text-align: center;">Artificial Intelligence Engineer | Enthusiastic AI Student with a Passion for Innovation</h3>
     <p style="text-align: center;">
-      <a href="" target="blank"><img src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668696_1280.png" alt="linked_abhay" height="30" width="40"></a>  
-      <a href="https://www.kaggle.com/abhayrohilla31" target="blank"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_abhay" height="30" width="40"></a>
-      <a href="https://www.instagram.com/abhayrohilla__/" target="blank"><img src="https://cdn.pixabay.com/photo/2016/08/09/17/52/instagram-1581266_1280.jpg" alt="insta_abhay" height="30" width="40"></a>
-      <a href="https://m.facebook.com/home.php?ref=wizard&_rdr" target="blank"><img src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_abhay" height="30" width="40"></a>
-      <a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40"></a>
+      <strong>Summary:</strong> Ambitious and driven Artificial Intelligence Engineering student with a profound passion for cutting-edge AI technologies and a solid foundation in Machine Learning, Deep Learning, Natural Language Processing, and Generative AI. Seeking challenging internship or entry-level opportunities to leverage academic prowess and practical project experience to contribute innovative AI solutions in a dynamic and forward-thinking organization.
     </p>
+    <hr>
+    <h3 style="text-align: center;">Experienced AI Developer with a Track Record of Success</h3>
     <p style="text-align: center;">
-      <br>
-      <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50"> <b><i>Thought: "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50">
+      With two years of hands-on experience in the dynamic field of AI, I have honed my skills in Django, Python, TensorFlow, and various other technologies. My professional journey has been marked by impactful contributions, ranging from developing robust Artificial Intelligence Models and Large Language Models.
     </p>
-    <br><br>
-    <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" alt="side_sticker" style="float: right; margin-left: 20px;">
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<b>About me ....</b>
-    <ul style="margin-top: 20px;">
-      <li>✔ Callme: He/His or TeamWorker 😊</li>
-      <li>✔ I’m currently learning about DSA 🥰</li>
-      <li>✔ I’m looking to collaborate with any Open-Source Artificial Intelligence projects</li>
-      <li>✔ Ask me anything you want, If I am alive I will answer within seconds 😉</li>
-      <li>✔ Fun fact: I Always try to learn something new and then sleep till it stores in the brain 😎</li>
-    </ul>
-    <br>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<b>My working tools...</b>
-    <p style="margin-top: 20px;">
-      <img height="50" src="https://freepngimg.com/thumb/python_logo/5-2-python-logo-png-image-thumb.png">
-      <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
-      <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg">
-      <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
-      <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
-      <img height="50" src="https://matplotlib.org/2.2.5/_images/sphx_glr_logos2_001.png" width='100'>
-      <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png">
-      <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg">
-      <img height="50" src="https://www.shutterstock.com/image-vector/emblem-c-plus-programming-language-260nw-1669056601.jpg">
-      <img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOOPdJoCN0IEwPovwoJ0g-YuZ6spEf4o6M7Q&usqp=CAU">
-      <img height="50" src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg">
-      <img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg">
-      <img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png">
-      <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/730px-OpenCV_Logo_with_text_svg_version.svg.png">
-      <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
+    <hr>
+    <h3 style="text-align: center;">Education</h3>
+    <p style="text-align: center;">
+      Bachelor's Degree in Artificial Intelligence | 2021-2025
     </p>
-    <h1 style="text-align: center;">Thank You For Checking My Profile</h1>
+    <hr>
+    <h3 style="text-align: center;">Skills</h3>
+    <p style="text-align: center;">
+      Basic Front-end Development: HTML, CSS, JavaScript<br>
+      Artificial Intelligence: TensorFlow, Keras<br>
+      Programming Languages: Python, C++, Java<br>
+      Generative AI: Langchain, Huggingface
+    </p>
+    <hr>
+    <h3 style="text-align: center;">Professional Experience</h3>
+    <p style="text-align: center;">
+      BKBIET - PILANI (2025)<br>
+      - Chatbot Conversation Using Open Source LLM<br>
+      - Stock Price Prediction using LSTM Model.
+    </p>
+    <hr>
+    <h3 style="text-align: center;">Achievements</h3>
+    <p style="text-align: center;">
+      - Algorithm Optimization<br>
+      - Project Innovation<br>
+      - Scalable Solutions
+    </p>
+    <hr>
+    <h3 style="text-align: center;">Relevant Coursework</h3>
+    <p style="text-align: center;">
+      - Machine Learning<br>
+      - Deep Learning<br>
+      - Natural Language Processing<br>
+      - Large Language Models<br>
+      - Generative AI
+    </p>
   </div>
 </body>
 </html>
