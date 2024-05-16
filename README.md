@@ -31,6 +31,7 @@
     <hr>
     <h3 style="text-align: center;">Education</h3>
     <p style="text-align: center;">
+      BKBIET - PILANI (2025)<br>
       Bachelor's Degree in Artificial Intelligence | 2021-2025
     </p>
     <hr>
@@ -44,7 +45,7 @@
     <hr>
     <h3 style="text-align: center;">Professional Experience</h3>
     <p style="text-align: center;">
-      BKBIET - PILANI (2025)<br>
+      - Multiple Documents Chatbot with Langchain & Streamit<br>
       - Chatbot Conversation Using Open Source LLM<br>
       - Stock Price Prediction using LSTM Model.
     </p>
