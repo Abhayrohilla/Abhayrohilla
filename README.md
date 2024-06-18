@@ -34,21 +34,21 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My working tools...
 
-<p align="left">
-  <code><img height="50" src="https://freepngimg.com/thumb/python_logo/5-2-python-logo-png-image-thumb.png"></code>
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img height="50" src="https://matplotlib.org/2.2.5/_images/sphx_glr_logos2_001.png" width='100'></code>
-  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png"></code>
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
-  <code><img height="50" src="https://www.shutterstock.com/image-vector/emblem-c-plus-programming-language-260nw-1669056601.jpg"></code>
-  <code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOOPdJoCN0IEwPovwoJ0g-YuZ6spEf4o6M7Q&usqp=CAU"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg"></code>
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
-  <code><img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"></code>
-  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/730px-OpenCV_Logo_with_text_svg_version.svg.png"></code>
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
+<p align="center">
+  <code><img height="50" src="https://freepngimg.com/thumb/python_logo/5-2-python-logo-png-image-thumb.png" alt="Python"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="Jupyter"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="HTML5"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL"></code>
+  <code><img height="50" src="https://matplotlib.org/2.2.5/_images/sphx_glr_logos2_001.png" alt="Matplotlib" width="100"></code>
+  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png" alt="Pandas"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="Numpy"></code>
+  <code><img height="50" src="https://www.shutterstock.com/image-vector/emblem-c-plus-programming-language-260nw-1669056601.jpg" alt="C++"></code>
+  <code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOOPdJoCN0IEwPovwoJ0g-YuZ6spEf4o6M7Q&usqp=CAU" alt="CSS"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg" alt="Scipy"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg" alt="Netlify"></code>
+  <code><img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" alt="Scikit-learn"></code>
+  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/730px-OpenCV_Logo_with_text_svg_version.svg.png" alt="OpenCV"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="TensorFlow"></code>
 </p>
 <h1 align="center">Thank You For Checking My Profile</h1>
