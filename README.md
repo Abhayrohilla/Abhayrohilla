@@ -13,10 +13,10 @@
 <h3 align="center">Aspiring AI Specialist | Python Developer | Machine Learning Enthusiast</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/abhayrohilla" target="_blank"><img src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668696_1280.png" alt="LinkedIn" height="30" width="40" /></a>  
-  <a href="https://www.kaggle.com/abhayrohilla31" target="_blank"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/abhayrohilla__/" target="_blank"><img src="https://cdn.pixabay.com/photo/2016/08/09/17/52/instagram-1581266_1280.jpg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://m.facebook.com/home.php?ref=wizard&_rdr" target="_blank"><img src="https://www.svgrepo.com/show/299425/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-  <a href="mailto:abhayrohilla31@gmail.com"><img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" height="30" width="40" /></a>
+<!--   <a href="https://www.kaggle.com/abhayrohilla31" target="_blank"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" height="30" width="40" /></a> -->
+<!--   <a href="https://www.instagram.com/abhayrohilla__/" target="_blank"><img src="https://cdn.pixabay.com/photo/2016/08/09/17/52/instagram-1581266_1280.jpg" alt="Instagram" height="30" width="40" /></a> -->
+<!--   <a href="https://m.facebook.com/home.php?ref=wizard&_rdr" target="_blank"><img src="https://www.svgrepo.com/show/299425/facebook.svg" alt="Facebook" height="30" width="40" /></a> -->
+  <a href="mailto:abhayrohilla267@gmail.com"><img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" height="30" width="40" /></a>
 </p>
 <p align="center">
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> 
