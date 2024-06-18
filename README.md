@@ -10,7 +10,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Abhay Rohilla</h1>
-<h3 align="center">Intermediate Python | Basic Java | Basic Kotlin | Basic Machine Learning | Basic Deep Learning | Basic NLP & Computer Vision | C and C++ | Basic HTML, CSS & Bootstrap</h3>
+<h3 align="center">Aspiring AI Specialist | Python Developer | Machine Learning Enthusiast</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/abhayrohilla" target="_blank"><img src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668696_1280.png" alt="LinkedIn" height="30" width="40" /></a>  
   <a href="https://www.kaggle.com/abhayrohilla31" target="_blank"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" height="30" width="40" /></a>
@@ -26,11 +26,11 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About me ...
 
-✔ Call me: He/His or TeamWorker 😊<br>
-✔ I’m currently learning about DSA 🥰<br>
-✔ I’m looking to collaborate on Open-Source Artificial Intelligence projects<br>
-✔ Ask me anything you want, if I am alive, I will answer within seconds 😉<br>
-✔ Fun fact: I always try to learn something new and then sleep till it stores in the brain 😎<br>
+✔ Pronouns: He/His or TeamWorker 😊<br>
+✔ Currently learning: Data Structures and Algorithms (DSA) 🥰<br>
+✔ Looking to collaborate on: Open-Source AI projects<br>
+✔ Ask me anything! I am always available to help within seconds 😉<br>
+✔ Fun fact: I love to learn something new and then let it sink in while I sleep 😎<br>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My working tools...
 
@@ -51,4 +51,19 @@
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/730px-OpenCV_Logo_with_text_svg_version.svg.png" alt="OpenCV"></code>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="TensorFlow"></code>
 </p>
-<h1 align="center">Thank You For Checking My Profile</h1>
+<hr>
+<h1 align="center">📊 GitHub Stats 📊</h1>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhayrohilla&show_icons=true&theme=radical" alt="Abhay's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhayrohilla&theme=radical" alt="Abhay's GitHub streak stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhayrohilla&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhayrohilla&theme=radical" alt="GitHub Trophies" />
+</p>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Abhayrohilla&theme=redical" alt="GitHub Activity Graph" />
+</p>
+<h1 align="center">Thank You For Visiting My Profile!</h1>
