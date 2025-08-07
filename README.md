@@ -14,7 +14,7 @@
 ## 🌟 About Me
 > "AI Engineering Graduate with proven track record of delivering 70% efficiency improvements through production-grade AI solutions"
 
-**Final year AI Engineering student** with hands-on experience in **LLM fine-tuning, RAG systems, and production ML deployment**. Currently working as an **AI/ML Intern at CodeZion** while completing my Bachelor's at **BK Birla Institute of Engineering & Technology, Pilani**. Seeking **AI Engineer roles** at top-tier technology companies to apply deep learning expertise in scalable enterprise solutions.
+**AI Engineering Graduate** with hands-on experience in **LLM fine-tuning, RAG systems, and production ML deployment**. Recently completed **AI/ML Internship at CodeZion** and graduated with **Bachelor's in AI Engineering from BK Birla Institute of Engineering & Technology, Pilani**.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhayrohilla&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="300" />
 
