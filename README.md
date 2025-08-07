@@ -9,7 +9,6 @@
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhayrohilla267@gmail.com)
   
   <img src="https://komarev.com/ghpvc/?username=Abhayrohilla&label=Profile%20Views&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Abhayrohilla&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </div>
 
 ## 🌟 About Me
